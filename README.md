@@ -11,4 +11,5 @@ Display clusters on a graph based on a text file formatted as:
 ## Text File Name must be cluster.txt
 ___
 
-
+Example usage:
+This cluster plot can be used for machine learning cluster data mining visualisation.
